@@ -1,0 +1,66 @@
+
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "perplexity. Ai",
+		"chatgpt. Com",
+		"auth 0. Com",
+		"client-api. Arkoselabs. Com",
+		"events. Statsigapi. Net",
+		"featuregates. Org",
+		"identrust. Com",
+		"intercom. Io",
+		"intercomcdn. Com",
+		"oaistatic. Com",
+		"oaiusercontent. Com",
+		"openai. Com",
+		"openaiapi-site. Azureedge. Net",
+		"sentry. Io",
+		"stripe. Com",
+		"bard. Google. Com",
+		"gemini. Google. Com",
+		"makersuite. Google. Com",
+		"anthropic. Com",
+		"claude. Ai. Com"
+      ]
+    },
+    {
+      "domain_suffix": [
+	        ". Perplexity. Ai",
+			". Chatgpt. Com",
+			". Auth 0. Com",
+			". Client-api. Arkoselabs. Com",
+			". Events. Statsigapi. Net",
+			". Featuregates. Org",
+			". Identrust. Com",
+			". Intercom. Io",
+			". Intercomcdn. Com",
+			". Oaistatic. Com",
+			". Oaiusercontent. Com",
+			". Openai. Com",
+			". Openaiapi-site. Azureedge. Net",
+			". Sentry. Io",
+			". Stripe. Com",
+			". Bard. Google. Com",
+			". Gemini. Google. Com",
+			". Makersuite. Google. Com",
+			". Anthropic. Com",
+			". Claude. Ai. Com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "Openai",
+        "Anthropic",
+        "Claude"
+      ]
+    },
+    {
+      "ip_cidr": [
+        
+      ]
+    }
+  ]
+}
