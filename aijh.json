@@ -1,56 +1,53 @@
 {
-	"version": 1.1,
-	"rules": [{
-		"domain": [
-			"browser-intake-datadoghq. com",
-			"chat. openai. com. cdn. cloudflare. net",
-			"gemini. google. com",
-			"openai-api. arkoselabs. com",
-			"openaicom-api-bdcpf 8 c 6 d 2 e 9 atf 6. z 01. azurefd. net",
-			"openaicomproductionae 4 b. blob. core. windows. net",
-			"production-openaicom-storage. azureedge. net",
-			"static. cloudflareinsights. com",
-			"o 33249. ingest. sentry. io"
-		],
-		"domain_suffix": [
-			"ai. com",
-			"algolia. net",
-			"api. statsig. com",
-			"auth 0. com",
-			"chatgpt. com",
-			"chatgpt. livekit. cloud",
-			"client-api. arkoselabs. com",
-			"events. statsigapi. net",
-			"featuregates. org",
-			"host. livekit. cloud",
-			"identrust. com",
-			"intercom. io",
-			"intercomcdn. com",
-			"launchdarkly. com",
-			"oaistatic. com",
-			"oaiusercontent. com",
-			"observeit. net",
-			"openai. com",
-			"openaiapi-site. azureedge. net",
-			"openaicom. imgix. net",
-			"segment. io",
-			"sentry. io",
-			"stripe. com",
-			"turn. livekit. cloud",
-			"openai. com",
-			"perplexity.ai",
-			"claude.ai.com",
-			"bard.google.com",
-			"gemini.google.com",
-			"makersuite.google.com",
-			"anthropic.com"
-		],
-		"domain_keyword": [
-			"openai",
-		  "anthropic",
-			"Claude"
-		]
-
-
-	}]
+    "version": 1,
+    "rules": [{
+        "domain": [
+        "browser-intake-datadoghq.com",
+        "chat.openai.com.cdn.cloudflare.net",
+        "gemini.google.com",
+        "openai-api.arkoselabs.com",
+        "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
+        "openaicomproductionae4b.blob.core.windows.net",
+        "production-openaicom-storage.azureedge.net",
+        "static.cloudflareinsights.com",
+        "o33249.ingest.sentry.io"
+        ],
+        "domain_suffix": [
+            "ai.com",
+            "algolia.net",
+            "api.statsig.com",
+            "auth0.com",
+            "chatgpt.com",
+            "chatgpt.livekit.cloud",
+            "client-api.arkoselabs.com",
+            "events.statsigapi.net",
+            "featuregates.org",
+            "host.livekit.cloud",
+            "identrust.com",
+            "intercom.io",
+            "intercomcdn.com",
+            "launchdarkly.com",
+            "oaistatic.com",
+            "oaiusercontent.com",
+            "observeit.net",
+            "openai.com",
+            "openaiapi-site.azureedge.net",
+            "openaicom.imgix.net",
+            "segment.io",
+            "sentry.io",
+            "stripe.com",
+            "turn.livekit.cloud",
+            "perplexity.ai",
+            "claude.ai",
+            "bard.google.com",
+            "gemini.google.com",
+            "makersuite.google.com",
+            "anthropic.com"
+        ],
+        "domain_keyword": [
+            "openai",
+            "anthropic",
+            "Claude"
+        ]
+    }]
 }
